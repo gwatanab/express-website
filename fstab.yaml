@@ -1,6 +1,6 @@
 mountpoints:
   /: 
-    url: https://adobe.sharepoint.com/:f:/r/sites/DMeGlobalizationEngineeringUSTeam/Shared%20Documents/mican
+    url: https://adobe.sharepoint.com/:f:/r/sites/DMeGlobalizationEngineeringUSTeam/Shared%20Documents/GenAI_L10N/GenVariationsSite
 
 folders:
   /express/templates/content.json: /metadata.json
