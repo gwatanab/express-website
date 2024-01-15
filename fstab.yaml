@@ -1,6 +1,6 @@
 mountpoints:
   /: 
-    url: https://adobe-my.sharepoint.com/:f:/r/personal/tsaplin_adobe_com/Documents/FranklinWebsites/Express
+    url: https://adobe.sharepoint.com/:f:/r/sites/DMeGlobalizationEngineeringUSTeam/Shared%20Documents/GenAI_L10N/GenVariationsSite
 
 folders:
   /express/templates/content.json: /metadata.json
